@@ -76,5 +76,5 @@
 Created by **Rahul kc**  
 📍 Calicut, India  
 💼 Data Analytics Student at Entri Elevate  
-🔗 [www.linkedin.com/in/rahul-kc-calicut](#) | [GitHub](#)
+🔗 [www.linkedin.com/in/rahul-kc-calicut](#) | [https://github.com/rahulkc27](#)
 
