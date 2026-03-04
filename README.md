@@ -71,3 +71,10 @@
 • 	Visual dashboards of sales trends
 
 • 	Actionable insights for inventory management, promotions, and customer targeting
+
+## 📧 Contact
+Created by **Rahul kc**  
+📍 Calicut, India  
+💼 Data Analytics Student at Entri Elevate  
+🔗 [www.linkedin.com/in/rahul-kc-calicut](#) | [GitHub](#)
+
