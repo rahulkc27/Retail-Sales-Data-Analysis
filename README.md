@@ -47,15 +47,6 @@
 
 • Provide recommendations for business decisio
 
-
-## 6. 	Insight Generation & Reporting
-
-• 	Highlight significant sales patterns, correlations, and anomalies
-
-• 	Document findings with Markdown explanations
-
-• 	Provide recommendations for business decisions
-
 ## 🛠️ Tools & Libraries
 
 • 	Python (Pandas, NumPy)
